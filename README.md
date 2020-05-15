@@ -65,4 +65,7 @@ yarn proxy
 
 ### Help
 
+If you don´t have *yarn* installed follow the [yarn getting started guide](https://classic.yarnpkg.com/en/docs/getting-started) 
+
 For more information visit the [Theme repository](https://github.com/narative/gatsby-theme-novela)
+
