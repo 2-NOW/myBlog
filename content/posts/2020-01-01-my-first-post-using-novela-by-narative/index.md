@@ -1,5 +1,5 @@
 ---
-title: My first post using Novela by Narative
+title: My first post using Novela by Narative!
 author: Dennis Brotzky
 date: 2019-04-30
 hero: ./images/hero.jpg
@@ -85,7 +85,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 ## Code and Syntax Highlighting
 
 ```javascript
-var s = "JavaScript syntax highlighting";
+var s = 'JavaScript syntax highlighting';
 alert(s);
 ```
 
@@ -97,11 +97,11 @@ But let's throw in a <b>tag</b>.
 ### JSX
 
 ```jsx
-import React from "react";
-import { ThemeProvider } from "theme-ui";
-import theme from "./theme";
+import React from 'react';
+import { ThemeProvider } from 'theme-ui';
+import theme from './theme';
 
-export default props => (
+export default (props) => (
   <ThemeProvider theme={theme}>{props.children}</ThemeProvider>
 );
 ```
