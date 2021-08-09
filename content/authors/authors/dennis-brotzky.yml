@@ -4,9 +4,6 @@ bio: |
 
 avatar: ./avatars/2now1.jpg
 social:
-  - url: https://unsplash.com
-  - url: https://stackoverflow.com
-  - url: https://github.com
-  - url: https://github.com
-  - url: https://github.com
+  - url: https://stackoverflow.com/users/16624170/%EC%9D%B4%ED%98%84%EC%9E%AC
+  - url: https://github.com/2-NOW
 featured: true
