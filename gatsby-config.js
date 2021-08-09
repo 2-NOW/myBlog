@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `2NOW-blog`,
+    title: `2NOW-BLOG`,
     name: `2NOW`,
     siteUrl: `https://novela.narative.co`,
     description: `This is my description that will be used in the meta tags and important for search results`,
@@ -9,17 +9,17 @@ module.exports = {
       maxWidth: 652,
     },
     social: [
-      {
-        name: `twitter`,
-        url: `https://twitter.com/narative`,
-      },
+      // {
+      //   name: `twitter`,
+      //   url: `https://twitter.com/narative`,
+      // },
       {
         name: `github`,
-        url: `https://github.com/narative`,
+        url: `https://github.com/2-NOW`,
       },
       {
         name: `instagram`,
-        url: `https://instagram.com/narative.co`,
+        url: `https://www.instagram.com/hyn_.jjj`,
       },
       {
         name: `linkedin`,
