@@ -9,10 +9,10 @@ module.exports = {
       maxWidth: 652,
     },
     social: [
-      {
-        name: `twitter`,
-        url: `https://twitter.com/narative`,
-      },
+      // {
+      //   name: `twitter`,
+      //   url: `https://twitter.com/narative`,
+      // },
       {
         name: `github`,
         url: `https://github.com/2-NOW`,
