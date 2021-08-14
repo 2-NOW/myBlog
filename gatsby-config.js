@@ -22,10 +22,6 @@ module.exports = {
         url: `https://www.instagram.com/hyn_.jjj`,
       },
       // {
-      //   name: `linkedin`,
-      //   url: `https://www.linkedin.com/company/narative/`,
-      // },
-      // {
       //   name: `dribbble`,
       //   url: `https://dribbble.com/narativestudio`,
       // },
