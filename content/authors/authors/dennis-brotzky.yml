@@ -1,0 +1,9 @@
+name: Dennis Brotzky
+bio: |
+  개발자 이현재입니다. javascript, react, vuejs를 주로 다룹니다.
+
+avatar: ./avatars/dennis-brotzky.jpg
+social:
+  - url: https://stackoverflow.com/users/16624170/%EC%9D%B4%ED%98%84%EC%9E%AC
+  - url: https://github.com/2-NOW
+# featured: true
