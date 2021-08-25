@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://novela.narative.co`,
     description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
-      heading: `안녕하세요. 개발자 이현재의 블로그입니다.`,
+      heading: `안녕하세요. <br/>이현재의 블로그입니다.`,
       maxWidth: 652,
     },
     social: [
